@@ -2,7 +2,7 @@
 
 A DLL Plugin for SimCity 4 that makes the DirectX full screen mode use 32-bit color.   
 
-This is alternative version of my DirectX full screen mode 32-bit color fix for people who are already using
+This is an alternative version of my DirectX full screen mode 32-bit color fix for people who are already using
 an external launcher or a shortcut with command line arguments to configure the game's graphics settings.
 
 If you are using my [GraphicsOptions](https://github.com/0xC0000054/sc4-graphics-options) DLL Plugin you do not need to install this mod.   
